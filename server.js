@@ -11,12 +11,12 @@ var articleThree = {
     heading: "Article Three",
     content: `
         <p>
-		    This is Article One
+		    This is Article three created using Java objects and function called createTemplate()
 		</p>
 		<br>
 		<h1>Story</h1><br>
 		<p>
-		    Article one story
+		    Article Three story: New way of creating html pages
 		</p>
     `
 
